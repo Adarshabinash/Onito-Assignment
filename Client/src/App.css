@@ -1,0 +1,44 @@
+.heading-top {
+  box-shadow: 4px 5px 5px rgb(70, 68, 68);
+  /* padding: 17px; */
+  margin-left: 40px;
+  margin-top: 5px;
+  margin-right: 20px;
+  background-color: rgb(233, 227, 227);
+  color: rgb(44, 44, 192);
+}
+
+.top-comps {
+  display: flex;
+  margin-top: 18px;
+  justify-content: space-between;
+  margin-left: 60px;
+  color: rgb(30, 30, 165);
+}
+
+.button {
+  padding: 0;
+  margin-right: 50px;
+  background-color: blue;
+  color: azure;
+  border-radius: 10px;
+}
+
+.intro {
+  padding: 8px;
+  border: thin black;
+  box-shadow: 2px 2px 3px 4px rgb(46, 46, 46);
+  margin-left: 60px;
+  margin-top: 3px;
+  margin-right: 20px;
+  background-color: rgb(199, 199, 199);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contentBody {
+  margin-top: 10px;
+  border: 5px solid rgb(70, 63, 63);
+  border-radius: 10px;
+  height: 200px;
+}
+
