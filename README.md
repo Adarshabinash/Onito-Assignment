@@ -1,4 +1,4 @@
-# Onito-Assignment
+# Onito-Technologies
 
 # This is the assignment I was asked to submit.
 
